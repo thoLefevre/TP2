@@ -1,0 +1,6 @@
+﻿  ConsoleApplication5.cpp
+c:\users\tlefevre\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(10): error C3861: 'printf' : identificateur introuvable
+c:\users\tlefevre\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(11): error C3861: 'scanf' : identificateur introuvable
+c:\users\tlefevre\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(12): error C3861: 'printf' : identificateur introuvable
+c:\users\tlefevre\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(13): error C3861: 'scanf' : identificateur introuvable
+c:\users\tlefevre\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(29): error C3861: 'printf' : identificateur introuvable
